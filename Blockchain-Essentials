@@ -1,0 +1,31 @@
+Name-Ahana P
+email-pahana98@gmail.com
+Day 1 Assignment|Blockchain-Essentials|Date-July-18
+
+Question 1:What is your understanding of Blockchain?
+-->Blockchain is leading technology,It says that its a combination of technology distributed database and crytography where our information will be 
+verifiable,immutable,unchangable,tamper-proof.
+
+Question 2:What is the core problem Blockchain trying to solve?
+-->Blockchain is trying to solve issues related to banking and which will provides data security and also issues related to currency using cryptocurrency i.e Bitcoin.
+
+Question 3:What are the few features which Blockchain will give you?
+-->1.No Hacking
+   2.Security
+   3.Decentralized in nature
+   4.Distributed Digital-Ledger
+   5.Tamper-proof
+   
+Question 4:What all things does a Block contain?
+-->Block contains
+   1.Block Number
+   2.Previous block signature
+   3.Mining Key
+   4.Transaction records
+   
+Question 5:How is the verifiability of Blockchain has been attained?
+-->All trhe data in the blockchain will stored in the form of pieces of data in the form of BLOCKS.first block will be called as genisis block followed by the next next blocks.
+-->each block will have its own signatures followed by the previous records signature and transaction records.
+-->each blocks will having its previous signature and genrate its own signature each time so there will be no chance of data security issues.Our data will be safe.
+-->so by this even if we try to change the data in one record all the other records previous hash will be changed so manipulation is not possible.
+-->this is how blockchain can be verfied.
